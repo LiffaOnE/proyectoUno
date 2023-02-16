@@ -1,6 +1,6 @@
 * {
-    margin:0;
-    padding:0;
+    margin: 2px;
+    padding:2px;
 }
 
 .frente {
@@ -85,3 +85,8 @@ a:hover{
     position: absolute;
     right: 10px;
 } 
+
+input {
+    border: none;
+    border-bottom: 1px solid black;
+}
